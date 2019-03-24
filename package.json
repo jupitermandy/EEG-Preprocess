@@ -1,0 +1,22 @@
+{
+  "name": "preprocess",
+  "version": "1.0.0",
+  "description": "EEG data preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "EEG",
+    "preprocess",
+    "preparation"
+  ],
+  "author": "Xinchun Zhang (Mandy)",
+  "license": "ISC",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
